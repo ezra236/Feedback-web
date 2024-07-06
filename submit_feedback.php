@@ -1,3 +1,4 @@
+<?php
 $password = "";
 $dbname = "campaign_feedback";
 
